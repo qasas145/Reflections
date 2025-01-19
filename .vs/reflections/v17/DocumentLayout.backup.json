@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|c:\\users\\hp\\desktop\\dotnet projects\\reflections\\propertyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|solutionrelative:propertyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|c:\\users\\hp\\desktop\\dotnet projects\\reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|c:\\users\\hp\\desktop\\dotnet projects\\reflections\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|c:\\users\\hp\\desktop\\dotnet projects\\reflections\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B106BCB9-7D0C-4C26-85AD-DBE663F9257C}|reflections.csproj|solutionrelative:aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\AboutController.cs",
+              "RelativeDocumentMoniker": "AboutController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\AboutController.cs",
+              "RelativeToolTip": "AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:34:54.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\PropertyHelper.cs",
+              "RelativeDocumentMoniker": "PropertyHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\PropertyHelper.cs",
+              "RelativeToolTip": "PropertyHelper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:22:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\Data.cs",
+              "RelativeDocumentMoniker": "Data.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\Data.cs",
+              "RelativeToolTip": "Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:35:47.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\DotNet projects\\reflections\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:34:05.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
